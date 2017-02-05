@@ -1,7 +1,7 @@
 Branch1 - Edit 1
+Master - Edit 2
 Branch1 - Edit 2
-Branch1 - Edit 3
-Branch1 - Edit 4
+Branch1 - Edit 3Branch1 - Edit 4
 Master - Edit 2
 Branch1 - Edit 5
 Branch1 - Edit 6
